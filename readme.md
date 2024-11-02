@@ -15,7 +15,7 @@ A simple, interactive shopping list app built with Vanilla JavaScript to enhance
 
 ## Demo
 
-Check out the live demo on Netlify.
+Check out the live demo on Netlify - https://splendorous-seahorse-ba4a5f.netlify.app/.
 <img src="images/screen.png" width="400">
 
 ## Usage
